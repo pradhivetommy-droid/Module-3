@@ -24,7 +24,7 @@ else:
 
 ```
 ## Output
-![alt text](Output34.png)
+![alt text](output34.png)
 
 ## Result
 A Python program to check whether the string `"google"` is a **palindrome** or not, without using built-in palindrome checking functions was completed successfully and output was generated.

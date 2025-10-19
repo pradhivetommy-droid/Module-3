@@ -16,7 +16,7 @@ print(sum(items))
 
 ```
 ## Output
-![alt text](Output31.png)
+![alt text](output31.png)
 
 ## Result
 A Python program that calculates the **sum of all elements** in a list was completed successfully and output was generated.
