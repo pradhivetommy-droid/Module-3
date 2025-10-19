@@ -11,16 +11,15 @@ To write a Python program that checks if the element `'n'` and the element `8` e
 
 ## 🧾 Program
 ```
-x = ('a', 'b', 'c', 'n', 1, 2, 8)
-
-print('n' in x)  
-print(8 in x)  
+tuplex = input()
+print("n" in tuplex)
+print("8" in tuplex)
 
 ```
 
 
 ## Output
 
-![alt text](Output35.png)
+![alt text](output35.png)
 ## Result
 a Python program that checks if the element `'n'` and the element `8` exist within a given tuple was completed successfully and output was generated.

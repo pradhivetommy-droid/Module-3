@@ -30,7 +30,6 @@ print(l1)
 ```
 
 ## Output
-
-![alt text](Output32.png)
+![alt text](output32.png)
 ## Result
 A Python program that filters out and returns all elements from a list **that do not contain the letter `'e'`**, using **regular expressions (regex)** was completed successfully and output was generated.
