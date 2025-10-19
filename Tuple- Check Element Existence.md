@@ -20,6 +20,6 @@ print("8" in tuplex)
 
 ## Output
 
-![alt text](output35.png)
+![alt text](Output35.png)
 ## Result
 a Python program that checks if the element `'n'` and the element `8` exist within a given tuple was completed successfully and output was generated.

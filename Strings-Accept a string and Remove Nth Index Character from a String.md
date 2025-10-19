@@ -32,6 +32,6 @@ print(result)
 ```
 ## Output
 
-![alt text](output33.png)
+![alt text](Output33.png)
 ## Result
 A Python program that accepts a string and removes the character at a specified index was completed successfully and output was generated.
